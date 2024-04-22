@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting to know things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything I can currently achieve
-- 📫 How to reach me @nidhinmanu07@gmail.com
+- 📫 How to reach me @nidheeshdevops@gmail.com
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nidh-eesh&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
