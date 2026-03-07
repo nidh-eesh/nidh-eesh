@@ -8,14 +8,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nidh-eesh&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nidh-eesh&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-[![Nidheesh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nidh-eesh&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Nidheesh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nidh-eesh&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nidheesh's GitHub stats-Dark](github-readme-stats-phi-two-50.vercel.app/api?username=nidh-eesh&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Nidheesh's GitHub stats-Light](github-readme-stats-phi-two-50.vercel.app/api?username=nidh-eesh&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nidh-eesh&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nidh-eesh&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](github-readme-stats-phi-two-50.vercel.app/api/top-langs/?username=nidh-eesh&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](github-readme-stats-phi-two-50.vercel.app/api/top-langs/?username=nidh-eesh&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Nidheesh's wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nidheesh&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Nidheesh's wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nidheesh&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nidheesh's wakatime stats-Dark](github-readme-stats-phi-two-50.vercel.app/api/wakatime?username=nidheesh&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Nidheesh's wakatime stats-Light](github-readme-stats-phi-two-50.vercel.app/api/wakatime?username=nidheesh&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!---
