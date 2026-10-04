@@ -5,7 +5,7 @@ I'm a founding software engineer at [Diwalco](https://diwalco.com), working most
 **Open to backend and AI engineering roles**, remote, hybrid or relocation.<br>
 [nidheesh.me](https://www.nidheesh.me) · [LinkedIn](https://www.linkedin.com/in/nidheesh-p) · [nidheesh.p@outlook.com](mailto:nidheesh.p@outlook.com)
 
-### Selected work
+### Built and shipped
 
 **[Diwalco](https://www.nidheesh.me/work/diwalco)** · A private family-tree and family-feed platform, from the API and data model to deploy-and-rollback. Core engineer and majority contributor; the code is private, so the case study tells it.
 
